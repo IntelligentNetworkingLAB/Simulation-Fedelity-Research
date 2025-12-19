@@ -1,0 +1,84 @@
+Bottleneck @ file:///croot/bottleneck_1707864210935/work
+box2d-py==2.3.5
+Brotli @ file:///croot/brotli-split_1714483155106/work
+certifi @ file:///croot/certifi_1725551672989/work/certifi
+charset-normalizer @ file:///croot/charset-normalizer_1721748349566/work
+cloudpickle @ file:///home/conda/feedstock_root/build_artifacts/cloudpickle_1729059237860/work
+contourpy @ file:///opt/conda/conda-bld/contourpy_1663827406301/work
+cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
+datasets==3.1.0
+dill==0.3.8
+Farama-Notifications @ file:///home/conda/feedstock_root/build_artifacts/farama-notifications_1684258120643/work
+filelock @ file:///croot/filelock_1700591183607/work
+fonttools @ file:///croot/fonttools_1713551344105/work
+gmpy2 @ file:///tmp/build/80754af9/gmpy2_1645455532332/work
+gymnasium @ file:///home/conda/feedstock_root/build_artifacts/gymnasium-split_1712294447663/work
+huggingface-hub==0.30.2
+idna @ file:///croot/idna_1714398848350/work
+imageio @ file:///home/conda/feedstock_root/build_artifacts/imageio_1729190692267/work
+importlib_metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib-metadata_1726082825846/work
+importlib_resources @ file:///croot/importlib_resources-suite_1720641103994/work
+jax-jumpy @ file:///home/conda/feedstock_root/build_artifacts/jax-jumpy_1679161251636/work
+Jinja2 @ file:///croot/jinja2_1716993405101/work
+kiwisolver @ file:///croot/kiwisolver_1672387140495/work
+MarkupSafe @ file:///croot/markupsafe_1704205993651/work
+matplotlib @ file:///croot/matplotlib-suite_1693812469450/work
+mkl-fft==1.3.1
+mkl-random @ file:///tmp/build/80754af9/mkl_random_1626186064646/work
+mkl-service==2.4.0
+mpmath @ file:///croot/mpmath_1690848262763/work
+multiprocess==0.70.16
+networkx @ file:///croot/networkx_1690561992265/work
+numexpr @ file:///croot/numexpr_1668713893690/work
+numpy @ file:///croot/numpy_and_numpy_base_1682520569166/work
+nvidia-cublas-cu12==12.1.3.1
+nvidia-cuda-cupti-cu12==12.1.105
+nvidia-cuda-nvrtc-cu12==12.1.105
+nvidia-cuda-runtime-cu12==12.1.105
+nvidia-cudnn-cu12==9.1.0.70
+nvidia-cufft-cu12==11.0.2.54
+nvidia-curand-cu12==10.3.2.106
+nvidia-cusolver-cu12==11.4.5.107
+nvidia-cusparse-cu12==12.1.0.106
+nvidia-nccl-cu12==2.20.5
+nvidia-nvjitlink-cu12==12.1.105
+nvidia-nvtx-cu12==12.1.105
+packaging @ file:///croot/packaging_1720101850331/work
+pandas @ file:///croot/pandas_1692289311655/work
+pillow @ file:///croot/pillow_1721059439630/work
+platformdirs @ file:///croot/platformdirs_1692205439124/work
+ply==3.11
+pooch @ file:///croot/pooch_1695850093751/work
+pyarrow==17.0.0
+pygame==2.6.1
+pyparsing @ file:///opt/conda/conda-bld/pyparsing_1661452539315/work
+PyQt5==5.15.10
+PyQt5-sip @ file:///croot/pyqt-split_1698769088074/work/pyqt_sip
+PySocks @ file:///tmp/build/80754af9/pysocks_1605305779399/work
+python-dateutil @ file:///croot/python-dateutil_1716495738603/work
+pytz @ file:///croot/pytz_1713974312559/work
+PyYAML @ file:///croot/pyyaml_1728657952215/work
+requests==2.32.3
+safetensors==0.5.3
+scipy==1.10.1
+seaborn==0.13.2
+sip @ file:///croot/sip_1698675935381/work
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+swig==4.3.1.post0
+sympy @ file:///croot/sympy_1734622612703/work
+tokenizers==0.20.3
+tomli @ file:///opt/conda/conda-bld/tomli_1657175507142/work
+torch==2.4.1+cu121
+torchaudio==2.4.1+cu121
+torchvision==0.19.1+cu121
+tornado @ file:///croot/tornado_1718740109488/work
+tqdm==4.67.1
+transformers==4.46.3
+triton==3.0.0
+typing_extensions==4.12.2
+tzdata @ file:///croot/python-tzdata_1746123641790/work
+unicodedata2 @ file:///croot/unicodedata2_1713212950228/work
+urllib3 @ file:///croot/urllib3_1727769808118/work
+xxhash==3.5.0
+zipp @ file:///croot/zipp_1729012354496/work
+
